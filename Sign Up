@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lan="en">
+<head>
+     <title>Sign Up</title>
+     <link rel="stylesheet" href="C:\Users\Lenovo\Desktop\nishta\style.css">
+</head>
+<body>
+    <div class="signup-box">
+          <h1>Sign Up</h1>
+          <h4>If you dont have an account sign up here:</h4>
+          <form>
+               <label>First Name</label>
+               <input type="text" placeholder="">
+               <label>Last Name</label>
+               <input type="text" placeholder="">
+               <label>Enter BMSCE Mail ID</label>
+               <input type="text" placeholder="">
+               <label>Enter New Password</label>
+               <input type="text" placeholder="">
+               <label>Confirm Password</label>
+               <input type="text" placeholder="">
+               <input type="button" value="Submit">
+           </form>
+     </div>
+    
+     <div>
+     <p class="para-2" >Already have an account? <a href="#">Login Here</a></p>
+     </div>
+</body>
+</html>
